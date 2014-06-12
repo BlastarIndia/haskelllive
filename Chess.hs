@@ -1,4 +1,5 @@
 -- | This is the documentation for the module Chess.
+-- | View the video here: https://www.youtube.com/watch?v=ScS8Q32lMxA
 module Chess where
 
 import Test.HUnit
